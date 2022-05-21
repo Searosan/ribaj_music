@@ -1,5 +1,5 @@
 {
-    "name": "Anie_Disco-bar",
+    "name": "Ribaj Music",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by PyTgCalls and Pyrogram",
     "logo": "https://telegra.ph/file/e35f60c897052d602419d.jpg",
     "keywords": [
@@ -11,8 +11,8 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/GodfatherSupport",
-    "repository": "https://github.com/Godfatherakkii/Anie_music",
+    "website": "https://t.me/osmanigroupbot",
+    "repository": "https://github.com/Searosan/ribaj_music",
     "success_url": "https://t.me/Shubhanshutya",
     "env": {
         "API_ID": {
